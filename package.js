@@ -1,7 +1,7 @@
 Package.describe({
-  name: "gildasg:numeral-languages",
+  name: "gildaspk:numeral-languages",
   summary: "Languages files for Numeral.js. See http://numeraljs.com.",
-  version: "2.8.1",
+  version: "1.5.4",
   git: "https://github.com/djhi/meteor-numeral-languages.git",
 });
 
