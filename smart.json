@@ -1,0 +1,8 @@
+{
+	"name": "gildasg:numeral-languages",
+	"description": "Languages files for Numeral.js, a JavaScript library for formatting numbers, packaged for Meteor. See http://numeraljs.com.",
+	"homepage": "https://github.com/djhi/meteor-numeral-languages",
+	"author": "Gildas Garcia <gildas.garcia@gmail.com>",
+	"version": "1.5.3",
+	"git": "https://github.com/djhi/meteor-numeral-languages.git"
+}
